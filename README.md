@@ -11,30 +11,18 @@ This C++ program retrieves and displays key information about the system's hardw
 
 ## How to Use
 
-1. Clone the repository:
+1. Download the compiled executable from the [Releases](https://github.com/your-username/system-information-retrieval/releases) page.
+
+2. Run the executable:
 
     ```bash
-    git clone https://github.com/your-username/system-information-retrieval.git
-    cd system-information-retrieval
-    ```
-
-2. Build the executable (assuming you have a C++ compiler installed):
-
-    ```bash
-    g++ main.cpp -o SystemInfo
-    ```
-
-3. Run the program:
-
-    ```bash
-    ./SystemInfo
+    ./SystemInfo.exe
     ```
 
 ## Requirements
 
-- C++ compiler (e.g., GCC, Visual C++)
 - Windows operating system (for registry-based CPU information retrieval)
 
 ## License
 
-This project is licensed under the [GNU General Public License v3.0](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE). The compiled executable is distributed under the terms of this license.
